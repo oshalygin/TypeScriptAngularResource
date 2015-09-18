@@ -1,7 +1,22 @@
 {
   "name": "ASP.NET",
+  "version": "1.0.0.0",
+  "authors": [
+    "Oleg Shalygin <oshalygin@gmail.com"
+  ],
+  "license": "MIT",
   "private": true,
   "dependencies": {
+    "angular": "~1.4.4",
+    "angular-animate": "~1.4.4",
+    "angular-bootstrap": "~0.13.3",
+    "angular-bootstrap-show-errors": "~2.3.0",
+    "angular-mocks": "~1.4.4",
+    "angular-resource": "~1.4.4",
+    "angular-route": "~1.4.4",
+    "angular-sanitize": "~1.4.4",
+    "angular-spinners": "~2.1.8",
+    "angular-ui-router": "~0.2.15",
     "bootstrap": "3.0.0",
     "bootstrap-touch-carousel": "0.8.0",
     "hammer.js": "2.0.4",
