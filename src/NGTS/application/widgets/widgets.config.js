@@ -1,0 +1,1 @@
+//# sourceMappingURL=widgets.config.js.map

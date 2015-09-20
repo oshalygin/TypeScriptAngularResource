@@ -7,4 +7,3 @@
         "app.school"
     ]);
 })();
-//# sourceMappingURL=app.js.map

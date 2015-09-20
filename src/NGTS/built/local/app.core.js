@@ -8,4 +8,3 @@
         "ui.bootstrap"
     ]);
 })();
-//# sourceMappingURL=app.core.js.map

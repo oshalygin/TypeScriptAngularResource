@@ -5,4 +5,3 @@
         console.log("temp");
     }
 })();
-//# sourceMappingURL=app.run.js.map

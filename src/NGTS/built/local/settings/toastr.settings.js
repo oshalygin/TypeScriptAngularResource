@@ -5,4 +5,3 @@
     toastr.options.newestOnTop = true;
     toastr.options.tapToDismiss = true;
 })();
-//# sourceMappingURL=toastr.settings.js.map
