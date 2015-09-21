@@ -6,8 +6,7 @@
         "app.services",
         "app.home",
         "app.school"
-        
-        
+
     ]);
 
 
